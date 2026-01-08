@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌟 About Me:
 👋 Hi, I'm Vijay<br>💻 Web Developer Enthusiast<br>- 🔧 Skilled in front‑end development (HTML, CSS, JavaScript) <br> back‑end (Nodejs , Express, React ).<br>🚀 Current Goals<br>- Expanding my custom dictionary project to include all case variations and exhaustive permutations.<br>- Delivering robust, scalable solutions that empower others to work smarter and faster.<br>
 
 
